@@ -24,4 +24,8 @@
 Next.js • React • TypeScript • Node.js • Tailwind CSS
 Prisma • PostgreSQL • Redis • Docker
 Spigot API • PaperMC • Discord.js • Python (for utilities)
+```
 
+## 📬 Get in Touch
+📱 Telegram: @NotKicu
+💼 GitHub: github.com/NotKicu (you're here!)
