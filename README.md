@@ -1,4 +1,4 @@
-# 👋 Hi, I'm NotKicu
+# 👋 Hi, I'm Kicu
 
 **Web Developer | Minecraft Server Engineer | Discord Bot Creator**  
 *Specialized in **Next.js** for blazing-fast, modern web experiences.*
