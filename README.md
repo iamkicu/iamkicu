@@ -28,5 +28,5 @@ Spigot API • PaperMC • Discord.js • Python (for utilities)
 
 ## 📬 Get in Touch
 📱 Telegram: @NotKicu 
-💼 GitHub: github.com/NotKicu (you're here!)
+💼 GitHub: github.com/iamkicu (you're here!)
 💻 Discord: iamkicu
